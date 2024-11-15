@@ -1,2 +1,3 @@
 # SIN-DD
-cvpr project
+CVPR2025 project.
+We are now organizing related resources...
